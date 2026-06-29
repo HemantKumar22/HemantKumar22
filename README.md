@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi there, I'm Hemant Kumar 👋
 
-<!--
-**HemantKumar22/HemantKumar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Data Science & AI Graduate from Boston Institute of Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Passionate about Data Analytics, Machine Learning, and Business Intelligence
+
+💻 Skilled in Python, SQL, Excel, Power BI, and Data Visualization
+
+📍 Bangalore, India
+
+---
+
+## Technical Skills
+
+### Programming & Analytics
+- Python
+- SQL
+- Excel
+- Power BI
+
+### Data Science & Machine Learning
+- Pandas
+- NumPy
+- Scikit-Learn
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Model Building
+
+### Visualization
+- Matplotlib
+- Seaborn
+- Power BI Dashboards
+
+---
+
+## Featured Projects
+
+### 🚗 Used Car Price Prediction
+Machine Learning project to predict used car prices using regression models and data analysis.
+
+### 🏨 Hotel Reservation Cancellation Prediction
+Predict hotel booking cancellations to support revenue and occupancy planning.
+
+### 🛡️ Insurance Customer Response Prediction
+Predict customer responses to insurance offers using classification models and customer data.
+
+---
+
+## Internship Experience
+
+### Spinnaker Analytics
+Worked on real-world Machine Learning projects including:
+
+- Used Car Price Prediction
+- Hotel Reservation Cancellation Prediction
+
+Applied data preprocessing, model building, evaluation, and visualization techniques.
+
+---
+
+## Currently Learning
+
+- Advanced SQL
+- Power BI Dashboard Development
+- Business Analytics
+- Machine Learning Applications
+
+---
+
+## Connect With Me
+
+📧 Email: your-email@example.com
+
+🔗 LinkedIn: Add your LinkedIn URL
+
+🐙 GitHub: https://github.com/HemantKumar22
