@@ -1,6 +1,8 @@
-# Hi there, I'm Hemant Kumar 👋
+# Hi there, I'm Hemant Kumar KB 👋
 
 ## About Me
+
+🎓 Information Science and Technology Graduate from Atria Institute of Technology
 
 🎓 Data Science & AI Graduate from Boston Institute of Analytics
 
@@ -54,10 +56,13 @@ Predict customer responses to insurance offers using classification models and c
 ### Spinnaker Analytics
 Worked on real-world Machine Learning projects including:
 
-- Used Car Price Prediction
-- Hotel Reservation Cancellation Prediction
+🚗 Used Car Price Prediction
+- Developed regression models to estimate used car prices.
+- Performed data cleaning, feature engineering, and model evaluation.
 
-Applied data preprocessing, model building, evaluation, and visualization techniques.
+🏨 Hotel Reservation Cancellation Prediction
+- Built predictive models to identify bookings likely to be cancelled.
+- Conducted exploratory data analysis and classification modeling.
 
 ---
 
@@ -72,8 +77,8 @@ Applied data preprocessing, model building, evaluation, and visualization techni
 
 ## Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: hemantkb.rtn@gmail.com
 
-🔗 LinkedIn: Add your LinkedIn URL
+🔗 LinkedIn: (https://www.linkedin.com/in/hemant-kumar-9835b6311/)
 
 🐙 GitHub: https://github.com/HemantKumar22
